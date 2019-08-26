@@ -1,0 +1,3 @@
+import src.operations.GetTaskListOperation
+import src.operations.StemWordsOperation
+import src.operations.ArrayToCsvOperation
